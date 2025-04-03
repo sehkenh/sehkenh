@@ -1,3 +1,7 @@
+![profile_001](https://github.com/user-attachments/assets/c8fd1fb2-4e52-45f6-9b6d-ba8394d8a2f2)
+
+
+
 - 👋 Hi, I’m @sehkenh
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -10,4 +14,4 @@
 sehkenh/sehkenh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![fondo2_github](https://github.com/user-attachments/assets/f857eded-8d5d-4ddd-9ec6-11467f0f516e)
+
